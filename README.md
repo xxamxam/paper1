@@ -1,13 +1,13 @@
-# Balancing Efficiency and Interpretability
+# $\gamma$-Competitiveness
 
-## A New Approach to Multi-Objective Optimization with High Computation Costs in Lipschitz Functions
+## An Approach to Multi-Objective Optimization with High Computation Costs in Lipschitz Functions
 
 ### Installation
 
 To run, you need to download all the files and install the necessary packages:
 
    ```bash
-   git clone 
+   git clone [link]
    ...
     pip install -r requirements.txt
    ```
